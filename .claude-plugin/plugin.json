@@ -1,0 +1,27 @@
+{
+  "name": "ux-audit-toolkit",
+  "version": "0.1.0",
+  "description": "UX audit skills for Claude Code and Cowork. Heuristic reviews based on Nielsen heuristics, Laws of UX and Dark Pattern taxonomy. Compliance-aware (DSA, AI Act, GDPR). Includes audit wizard and onboarding.",
+  "author": {
+    "name": "ux-audit-toolkit contributors"
+  },
+  "homepage": "https://github.com/tendera01-spec/ux-audit-toolkit",
+  "repository": "https://github.com/tendera01-spec/ux-audit-toolkit",
+  "license": "MIT AND CC-BY-4.0",
+  "keywords": [
+    "ux",
+    "ux-audit",
+    "heuristic-evaluation",
+    "nielsen-heuristics",
+    "laws-of-ux",
+    "dark-patterns",
+    "usability",
+    "dsa",
+    "ai-act",
+    "gdpr",
+    "claude",
+    "claude-code",
+    "cowork",
+    "ai-agents"
+  ]
+}
