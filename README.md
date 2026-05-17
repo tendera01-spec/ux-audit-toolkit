@@ -1,3 +1,10 @@
+# accessibility-audit-toolkit
+
+![Accessibility Audit Toolkit Cover](./linkedin-cover.png)
+
+**Accessibility-Audit-Skills für Claude Code, Cowork und vergleichbare AI-Assistenten. Open Source.**
+
+
 # ux-audit-toolkit
 
 **UX-Audit-Skills für Claude Code, Cowork und vergleichbare AI-Assistenten. Open Source.**
